@@ -1,68 +1,13 @@
+#include "main.h"
 
+/**
+*mul - multiplies two numbers
+*@a: first number
+*@b: second number
+*Return: returns result
+*/
 
-
-
-
-
-
-'
-
-
-cd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2-mul.c
-2-mul.c
-2-mul.c
-2-mul.c
-
-
-
-exit
-
-
-
-
+int mul(int a, int b)
+{
+	return (a * b);
+}
