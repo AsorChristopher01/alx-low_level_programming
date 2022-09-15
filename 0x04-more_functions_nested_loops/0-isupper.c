@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /** Code checks if letter
- * is upper case or lowercase
- * Return : 0 or 1
- */
+* is upper case or lowercase
+* Return : 0 or 1
+*/
 
 int _isupper(int c)
 {
