@@ -1,4 +1,5 @@
-#include "main.h"
+#include "mainn.h"
+#include <stdio.h>
 
 /**
  * set_string - Entry point
