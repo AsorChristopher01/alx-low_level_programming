@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /** 
 * _sqrt_recursion - function to find square root
