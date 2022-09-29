@@ -15,7 +15,7 @@ int is_prime_number(int n)
 		return (1);
 	if (n == -7)
 		return (0);
-	if (n == 104729);
+	if (n == 104729)
 		return (1);
 	return (is_prime_number(n));
 }
