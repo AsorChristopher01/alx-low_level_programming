@@ -7,7 +7,7 @@
  * @av: pointer array
  * Return: always 0
  */
-char *argstostr(int sc, char **av)
+char *argstostr(int ac, char **av)
 {
 	int i, n, r =0, l =0;
 	char *str;
